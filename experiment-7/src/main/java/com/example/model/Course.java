@@ -24,7 +24,6 @@ public class Course {
         this.fee = fee;
     }
 
-    // Getters and Setters
     public Long getCourseId() {
         return courseId;
     }
